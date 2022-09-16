@@ -36,6 +36,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Feito com ❤️ por Felipe Damazio 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-damazio/)](https://www.linkedin.com/in/felipe-damazio/) 
-[![Gmail Badge](https://img.shields.io/badge/-lipjb@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lipjb@hotmail.com)target="_blank"](mailto:lipjb@hotmail.com target="_blank")
+[![Gmail Badge](https://img.shields.io/badge/-lipjb@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lipjb@hotmail.com)](mailto:lipjb@hotmail.com )
 
 
