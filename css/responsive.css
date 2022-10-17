@@ -1,0 +1,58 @@
+
+
+@media screen and (max-width:1024px) {
+    h1 {
+
+
+
+        font-size: 2em;
+        padding: 30px;
+        top: 10em;
+
+    }
+
+
+
+}
+
+@media screen and (max-width:768px) {
+
+    h1 {
+
+
+
+        font-size: 2em;
+        padding: 30px;
+        top: 10em;
+
+    }
+
+}
+
+
+
+@media screen and (max-width:414px) {
+
+    h1 {
+
+
+
+        font-size: 2em;
+        padding: 30px;
+        top: 10em;
+
+    }
+}
+
+@media screen and (max-width:320px) {
+
+    h1 {
+
+
+
+        font-size: 2em;
+        padding: 30px;
+        top: 10em;
+
+    }
+}
