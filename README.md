@@ -9,11 +9,8 @@
 # Descrição do Projeto
 <p align="center">Pagina de Formulario simples para cadastro utilizando HTML/CSS </p>
 
+[![Deploy with Vercel](https://vercel.com/button)](https://felipedamazio.github.io/FORMULARIO-DE-LOGIN)
 
-<h1 align="center">
-<!-- <h1> -->
-<a href="https://felipedamazio.github.io/FORMULARIO-DE-LOGIN" target="_blank">Testar</a> 
-</h1>
 
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
